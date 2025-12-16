@@ -1,0 +1,7 @@
+# ML models & data (stored on Hugging Face)
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.bin
+*.csv
